@@ -1,4 +1,4 @@
-# DevSecOps-Journey
+# DevSecOps-TIL
 성장 기록
 # 나의 DevSecOps 준비의 시작
 - **닉네임:** Nel
